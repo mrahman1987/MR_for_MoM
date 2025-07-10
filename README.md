@@ -1,5 +1,5 @@
 # Mixed Reality applications for Mechanics of Materials Courses
-This repository hosts a Mixed Reality (MR) application designed to enhance student learning and improve educational outcomes in Mechanics of Materials courses. The application was developed as part of a Research Experience for Undergraduates (REU) project at the University of Texas at Arlington (UTA). Instructions for downloading and viewing the MR application can be found here: [Download the poster](./Instructions.md)
+This repository hosts a Mixed Reality (MR) application designed to enhance student learning and improve educational outcomes in Mechanics of Materials courses. The application was developed as part of a Research Experience for Undergraduates (REU) project at the University of Texas at Arlington (UTA). Instructions for downloading and viewing the MR application can be found [here](./Instructions.md)
 ## Project Title
 Using Mixed Reality to Enhance Problem Visualization for Mechanics of Materials Course.
 ## Contributors
