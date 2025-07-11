@@ -14,6 +14,6 @@ This project aimed to enhance student learning experience and outcomes in a univ
 ## Important Findings
 Results showed that both MR and toolkit experience improved student learning outcomes (based on a Knowledge Quiz given after the three modes of instructions) compared to traditional classroom education. The aveage quiz scores for the three modes were 6.0 (SD = 2.51) for traditional instruction, 8.13 (SD = 1.46) for instruction with mixed reality, and 8.13 (SD = 1.55) for instruction with physical toolkits. However, the differences were not statistically significant.<br/>
 <p align="center">
-  <img width="564" height="339" alt="image" src="https://github.com/user-attachments/assets/366a29d2-4e8b-4705-a266-d014596bdd59" />
+<img width="948" height="280" alt="image" src="https://github.com/user-attachments/assets/ddcd7418-fbf1-4584-b2d4-1d08c249162b" />
 </p>
 A portion of the study’s findings, along with more details on the study methods, was presented in a poster session at Innovation Day, hosted by the College of Engineering at the University of Texas at Arlington. The poster is available on this webpage: https://uta.engineering/innovationday/project-2025.php?p=61&h=b7e3120b1690a1e960366e5303bfcae3
